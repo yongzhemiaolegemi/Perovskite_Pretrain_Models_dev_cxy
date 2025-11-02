@@ -7,7 +7,7 @@
 
 ```bash
 # clone the repository
-git clone https://github.com/yongzhemiaolegemi/AI-for-perovskite-solar-cells.git
+git clone https://github.com/newtontech/Perovskite_Pretrain_Models.git
 
 # create virtual env
 conda create -n aifp python==3.11
